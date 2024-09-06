@@ -1,0 +1,10 @@
+## Test Case 1
+- **Descrição**: Login com usuário e senha válidos
+- **Prioridade**: Alta
+- **Tipo**: Funcional
+- **Pré-condição**: N/A
+- **Passos**:
+  1. Acesse a página de login.
+  2. Insira o usuário `demouser` e a senha `abc123`.
+  3. Clique no botão de login.
+- **Resultado Esperado**: O usuário é redirecionado para a página de lista de faturas.
