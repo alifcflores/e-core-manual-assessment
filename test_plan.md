@@ -1,4 +1,4 @@
-| Description                                                  | Count |
+| Scenarios Plan                                               | Count |
 |--------------------------------------------------------------|-------|
 | Possible combinations (based on the entry values)	           |   15  |
 | Credentials combinations	                                   |   09  |
