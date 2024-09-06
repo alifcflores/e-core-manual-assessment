@@ -1,6 +1,6 @@
 | Test Case ID | Description                                   | Status | Remarks                                      |
 |--------------|-----------------------------------------------|--------|----------------------------------------------|
-| [TC01] (test-cases/TC001.md) | Verify successful login with valid credentials | Passed | -                                            |
+| [TC01](test-cases/TC001.md) | Verify successful login with valid credentials | Passed | -                                            |
 | TC02         | Verify error message for invalid credentials | Failed | Error message was not displayed             |
 | TC03         | Verify password field is masked               | Passed | -                                            |
 | TC04         | Verify login button is disabled on empty fields | Passed | -                                            |
