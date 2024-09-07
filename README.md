@@ -15,8 +15,6 @@ Execution
 
 Plus
 - Smoke Tests in all aplication
-- Icons for Priority
-- Icons for execution status
 
 # Scenarios Planned For Login Page
 Two main software testing techniques were used to create the test scenarios.
