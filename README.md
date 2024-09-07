@@ -1,3 +1,24 @@
+# pendings
+
+Planning
+- create bug template (30 min)
+- populate encountered bugs (1h30)
+- Include All possible combinations number (0 min)
+- Create a bug report file (consolidated) (30 min)
+- Include Print of non-functional scenarios (0 min)
+
+Execution
+- execute scenarios (30 min)
+- print screen to bugs (30 min)
+- populate non-functional scenarios (30 min)
+- Vinculate bugs to scenarios (15 min)
+- Fix priority for all scenarios (15 min)
+
+Plus
+- Smoke Tests in all aplication
+- Icons for Priority
+- Icons for execution status
+
 # Scenarios Planned For Login Page
 Two main software testing techniques were used to create the test scenarios.
 
