@@ -1,9 +1,10 @@
 # pendings
 
-Planning (1h30)
+Planning (2h30)
 - Finish Dashboard (30 min)
 - Move Dashboads information from principal spreadsheet (20 min)
 - Include new scenarios to equivalence spreadsheet (20 min)
+- Finish Test Plan (1h)
 - Include All possible combinations number (0 min)
 - Include print of non-functional scenarios (table) (0 min)
 - Update priority based on spreadsheet. (5 min)
