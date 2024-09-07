@@ -1,4 +1,4 @@
-## Challenge #1
+## Challenge #1 (DONE)
 - Design and write test cases for the login page 
 - Define the priority of the test cases.
 - Define the test type for each test case.
@@ -8,7 +8,7 @@
 - Provide an execution report with all the relevant information.
 
 ## Challenge #3
-- Perform exploratory tests in order to identify bugs. 
+- Perform exploratory tests in order to identify bugs. (DONE)
 - Provide the bug report for each bug that you found.
 
 ## Challenge #4
