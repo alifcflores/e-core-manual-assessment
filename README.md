@@ -1,15 +1,16 @@
 # pendings
 
-Planning (2h)
-- create non-functional scenarios (1h30)
-- Create a bug report file (consolidated) (30 min)
-- Include print of non-functional scenarios (table) (0 min)
+Planning (1h30)
+- Finish Dashboard (30 min)
+- Move Dashboads information from principal spreadsheet (20 min)
+- Include new scenarios to equivalence spreadsheet (20 min)
 - Include All possible combinations number (0 min)
+- Include print of non-functional scenarios (table) (0 min)
+- Update priority based on spreadsheet. (5 min)
 
-Execution (1h30)
+Execution (1h15)
 - execute scenarios and collect evidences (1h)
 - Vinculate bugs to scenarios (15 min)
-- Fix priority for all scenarios (15 min)
 
 Plus
 - Smoke Tests in all aplication (45 min)
