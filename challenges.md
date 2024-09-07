@@ -13,7 +13,7 @@
 
 ## Challenge #4
 - Calculate the test coverage from Challenge #1 
-- Showing how you did this calculation along with a brief explanation.
+- Show how you did this calculation.
 - Please, do not use any automated tool for it.
 
 ## Challenge #5
