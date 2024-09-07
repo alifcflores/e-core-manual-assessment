@@ -9,8 +9,8 @@
 | **Type**           | Smoke Test                                                                                                |
 | **Preconditions**  | User must be registered in the system.                                                                   |
 | **Steps to Execute** | 1. Access the login page.<br>2. Fill in the field with a **valid** username.<br>3. Fill in the field with a **valid** password.<br>4. Click on the login button. |
-| **Post Conditions** | N/A                                                                                                      |
-| **Expected Result** | User is redirected to the invoices page.                                                                 |
+| **Post Conditions** | User is logged sucessfull                                                                                     |
+| **Expected Result** | redirected to the invoices page                                                                 |
 
 <br><br>
 
