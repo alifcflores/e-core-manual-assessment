@@ -1,3 +1,41 @@
+# Test Cases Summary
+
+## Smoke Test Cases
+
+| **Test Case ID** | **Description**                                    |
+|------------------|----------------------------------------------------|
+| [TC-001](#test-case-001) | Login: Valid UserName - Valid Password            |
+| [TC-002](#test-case-002) | Login: Empty UserName - Empty Password            |
+
+## Functional Test Cases
+
+| **Test Case ID** | **Description**                                    |
+|------------------|----------------------------------------------------|
+| [TC-003](#test-case-003) | Login: Valid UserName - Invalid Password          |
+| [TC-004](#test-case-004) | Login: Valid UserName - Empty Password            |
+| [TC-005](#test-case-005) | Login: Invalid UserName - Valid Password          |
+| [TC-006](#test-case-006) | Login: Invalid UserName - Invalid Password        |
+| [TC-007](#test-case-007) | Login: Invalid UserName - Empty Password          |
+| [TC-008](#test-case-008) | Login: Empty UserName - Valid Password            |
+| [TC-009](#test-case-009) | Login: Empty UserName - Invalid Password          |
+
+## Security Test Cases
+
+| **Test Case ID** | **Description**                                    |
+|------------------|----------------------------------------------------|
+| [TC-010](#test-case-015) | Brute Force Attack: Login Attempt Limitation      |
+| [TC-011](#test-case-010) | Valid Login With Allowed Special Characters       |
+| [TC-012](#test-case-011) | Invalid Login With Special Characters (Not Allowed)|
+
+## Responsiveness Test Cases
+
+| **Test Case ID** | **Description**                                    |
+|------------------|----------------------------------------------------|
+| [TC-013](#test-case-012) | Responsiveness Test: 1920x1080 (Full HD)          |
+| [TC-014](#test-case-013) | Responsiveness Test: 1366x768 (HD)                |
+| [TC-015](#test-case-014) | Responsiveness Test: 1440x900 (WXGA+)             |
+
+
 # Smoke - Test Cases
 <br>
 
