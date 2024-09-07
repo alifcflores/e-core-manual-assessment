@@ -9,13 +9,13 @@ In this case, the decision table is used to perform combinations between the pos
 
 This way, it is possible to have coverage of 100% or very close to it.
 
-| Scenarios Plan                                               | TC's |
-|--------------------------------------------------------------|-------|
-| Possible combinations (based on the entry values)	           |   15  |
-| Credentials combinations	                                   |   09  |
-| Special Characters                                           |   04  |
-| Fields Max Length                                            |   02  |
-| Test Coverage	                                               | 100%  |
+| Scenarios Plan                                               |  TC's  |
+|--------------------------------------------------------------|--------|
+| Possible combinations (based on the entry values)	           |   --   |
+| Credentials combinations	                                   |   09   |
+| Special Characters                                           |   02   |
+| Fields Max Length                                            |   02   |
+| Test Coverage	                                               |  100%  |
 
 ## Credentials combinations:
 [![test-cases.png](https://i.postimg.cc/d1kQXxH2/test-cases.png)](https://postimg.cc/dkFKZ4K3)
