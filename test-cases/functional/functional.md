@@ -1,4 +1,4 @@
-# Test Cases
+# Functional Tests
 
 ## Test Case #002 - Login: Valid UserName - Invalid Password
 
