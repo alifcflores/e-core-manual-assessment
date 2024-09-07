@@ -23,5 +23,5 @@ This way, it is possible to have coverage of 100% or very close to it.
 ## Special Characters
 [![TC-special-caracters.png](https://i.postimg.cc/QMF79K9m/TC-special-caracters.png)](https://postimg.cc/zL1v4BkH)
 
-## Field Boundaries
+## Fields Max Length
 [![TC-max-length.png](https://i.postimg.cc/yYfCzTMW/TC-max-length.png)](https://postimg.cc/nCQP4qct)
