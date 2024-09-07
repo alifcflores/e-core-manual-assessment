@@ -1,4 +1,16 @@
-# Test Plan
+# Techniques Used
+Two main software testing techniques were used to create the test scenarios.
+
+## Equivalence partitioning
+Identifies all the main inputs (usually based on the business rule) so that they can be divided into smaller partitions.
+
+## Decision Table
+In this case, the decision table is used to perform combinations between the possible inputs, to determine the real number of scenarios.
+
+This way, it is possible to have coverage of 100% or very close to it.
+
+# Scenarios Planned For Login Page
+
 
 | Scenarios Plan                                               | TC's |
 |--------------------------------------------------------------|-------|
