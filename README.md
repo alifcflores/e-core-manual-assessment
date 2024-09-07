@@ -1,20 +1,18 @@
 # pendings
 
-Planning
-- create non-functional scenarios
-- Include All possible combinations number (0 min)
+Planning (2h)
+- create non-functional scenarios (1h30)
 - Create a bug report file (consolidated) (30 min)
-- Include Print of non-functional scenarios (0 min)
+- Include print of non-functional scenarios (table) (0 min)
+- Include All possible combinations number (0 min)
 
-Execution
-- execute scenarios (30 min)
-- print screen to bugs (30 min)
-- populate non-functional scenarios (30 min)
+Execution (1h30)
+- execute scenarios and collect evidences (1h)
 - Vinculate bugs to scenarios (15 min)
 - Fix priority for all scenarios (15 min)
 
 Plus
-- Smoke Tests in all aplication
+- Smoke Tests in all aplication (45 min)
 
 # Scenarios Planned For Login Page
 Two main software testing techniques were used to create the test scenarios.
