@@ -1,8 +1,9 @@
 # pendings
 
 Planning
-- create bug template (30 min)
-- populate encountered bugs (1h30)
+- create bug template (30 min) - DONE 
+- populate encountered bugs (1h30) - DONE
+- create non-functional scenarios
 - Include All possible combinations number (0 min)
 - Create a bug report file (consolidated) (30 min)
 - Include Print of non-functional scenarios (0 min)
