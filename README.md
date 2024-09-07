@@ -21,8 +21,7 @@ This way, it is possible to have coverage of 100% or very close to it.
 [![test-cases.png](https://i.postimg.cc/d1kQXxH2/test-cases.png)](https://postimg.cc/dkFKZ4K3)
 
 ## Special Characters
-[![TC-special-caracters.png](https://i.postimg.cc/W19cm7N0/TC-special-caracters.png)](https://postimg.cc/XryP4dyv)
-
+[![TC-special-caracters.png](https://i.postimg.cc/QMF79K9m/TC-special-caracters.png)](https://postimg.cc/zL1v4BkH)
 
 ## Field Boundaries
 [![TC-max-length.png](https://i.postimg.cc/yYfCzTMW/TC-max-length.png)](https://postimg.cc/nCQP4qct)
