@@ -1,12 +1,16 @@
-| Test Case ID | Description                                   | Status | Linked Bugs                                      | 
-|--------------|-----------------------------------------------|--------|----------------------------------------------|
-| [TC01](test-cases/TC001.md) | Verify successful login with valid credentials | Passed | [bug-001](founded-bugs/bug001.md)|
-| TC02         | Verify error message for invalid credentials | Failed |             |
-| TC03         | Verify password field is masked               | Passed | -                                            |
-| TC04         | Verify login button is disabled on empty fields | Passed | -                                            |
-| TC05         | Verify login functionality with edge cases    | Passed | -                                            |
-| TC06         | Verify redirect to Invoice List after successful login | Passed | -                                            |
-| TC07         | Verify invalid credentials prevent access      | Passed | -                                            |
-| TC08         | Verify login page elements are aligned correctly | Passed | -                                            |
-| TC09         | Verify response time of login page             | Failed |   |
-| TC10         | Verify session timeout functionality            | Passed | -                                            |
+## Smoke Tests
+| Test Case ID | Description                                   | Status | Linked Bugs                                                                      | 
+|--------------|-----------------------------------------------|--------|----------------------------------------------------------------------------------|
+| [TC001](test-cases/smoke/TC001.md)      | Verify successful login with valid credentials               | Not Executed | [bug-001](founded-bugs/bug001.md)|
+| [TC009](test-cases/smoke/TC009.md)      | Login: Empty UserName - Empty Password                       | Not Executed | -   |
+
+## Functional Tests
+| Test Case ID | Description                                   | Status | Linked Bugs                                                                      | 
+|--------------|-----------------------------------------------|--------|----------------------------------------------------------------------------------|
+| [TC002](test-cases/functional/TC002.md) | Login: Valid UserName - Invalid Password                     | Not Executed | -   |
+| [TC003](test-cases/functional/TC003.md) | Login: Valid UserName - Empty Password                       | Not Executed | -   |
+| [TC004](test-cases/functional/TC004.md) | Invalid UserName - Valid Password (of some registered user)  | Not Executed | -   |
+| [TC005](test-cases/functional/TC005.md) | Login: Invalid UserName - Invalid Password                   | Not Executed | -   |
+| [TC006](test-cases/functional/TC006.md) | Verify redirect to Invoice List after successful login       | Not Executed | -   |
+| [TC007](test-cases/functional/TC007.md) | Empty UserName - Valid Password (of some registered user)    | Not Executed | -   |
+| [TC008](test-cases/functional/TC008.md) | Login: Empty UserName - Invalid Password                     | Not Executed | -   |
