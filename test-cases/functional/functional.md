@@ -1,4 +1,4 @@
-# Functional Tests
+# Functional Test Cases
 
 ## Test Case #002 - Login: Valid UserName - Invalid Password
 
@@ -11,7 +11,8 @@
 | **Post Conditions** | Login should not be performed.                                                                           |
 | **Expected Result** | The system should display a message informing the user that the credentials are invalid.                 |
 
----
+
+<br><br>
 
 ## Test Case #003 - Login: Valid UserName - Empty Password
 
@@ -24,7 +25,8 @@
 | **Post Conditions** | Login should not be performed.                                                                           |
 | **Expected Result** | The system should display a message informing the user that the credentials are invalid.                 |
 
----
+
+<br><br>
 
 ## Test Case #004 - Login: Invalid UserName - Valid Password (of some registered user)
 
@@ -37,7 +39,8 @@
 | **Post Conditions** | Login should not be performed.                                                                           |
 | **Expected Result** | The system should display a message informing the user that the credentials are invalid.                 |
 
----
+
+<br><br>
 
 ## Test Case #005 - Login: Invalid UserName - Invalid Password
 
@@ -50,7 +53,8 @@
 | **Post Conditions** | Login should not be performed.                                                                           |
 | **Expected Result** | The system should display a message informing the user that the credentials are invalid.                 |
 
----
+
+<br><br>
 
 ## Test Case #006 - Login: Invalid UserName - Empty Password
 
@@ -63,7 +67,8 @@
 | **Post Conditions** | Login should not be performed.                                                                           |
 | **Expected Result** | The system should display a message informing the user that the credentials are invalid.                 |
 
----
+
+<br><br>
 
 ## Test Case #007 - Login: Empty UserName - Valid Password (of some registered user)
 
@@ -76,7 +81,8 @@
 | **Post Conditions** | Login should not be performed.                                                                           |
 | **Expected Result** | The system should display a message informing the user that the credentials are invalid.                 |
 
----
+
+<br><br>
 
 ## Test Case #008 - Login: Empty UserName - Invalid Password 
 
