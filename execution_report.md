@@ -14,3 +14,9 @@
 | [TC006](test-cases/functional/TC006.md) | Verify redirect to Invoice List after successful login       | Not Executed | -   |
 | [TC007](test-cases/functional/TC007.md) | Empty UserName - Valid Password (of some registered user)    | Not Executed | -   |
 | [TC008](test-cases/functional/TC008.md) | Login: Empty UserName - Invalid Password                     | Not Executed | -   |
+
+## Security Test (to prevent SQL Injection and others)
+| Test Case ID | Description                                   | Status | Linked Bugs                                                                      | 
+|--------------|-----------------------------------------------|--------|----------------------------------------------------------------------------------|
+| [TC010](test-cases/security/TC010.md)      | Valid Login With Allowed Special Characters                  | Not Executed | -   |
+| [TC011](test-cases/security/TC011.md)      | Invalid Login With Special Characters (Not Allowed)          | Not Executed | -   |
