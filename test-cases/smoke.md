@@ -1,4 +1,4 @@
-## Smoke Test Cases
+# Smoke Test Cases
 ## TC-001 - Login: Valid UserName - Valid Password
 
 | **Attribute**      | **Details**                                                                                              |
