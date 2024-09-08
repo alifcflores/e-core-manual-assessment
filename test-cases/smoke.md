@@ -1,10 +1,4 @@
 ## Smoke Test Cases
-
-| **Test Case ID** | **Description**                                    |
-|------------------|----------------------------------------------------|
-| [TC-001](#test-case-001) | Login: Valid UserName - Valid Password            |
-| [TC-002](#test-case-002) | Login: Empty UserName - Empty Password            |
-
 ## TC-001 - Login: Valid UserName - Valid Password
 
 | **Attribute**      | **Details**                                                                                              |
