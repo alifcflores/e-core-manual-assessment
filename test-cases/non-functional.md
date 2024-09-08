@@ -52,7 +52,12 @@
 | **Post Conditions** | N/A                                                                                                     |
 | **Expected Result** | The system should display a message indicating the special characters are not allowed.                |
 
-# Responsiveness Test Cases
+<br>
+
+---
+
+
+# Responsiveness Tests
 
 ## TC-014 - Responsiveness Test: 1920x1080 (Full HD)
 
