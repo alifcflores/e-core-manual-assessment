@@ -97,3 +97,29 @@
 | **Steps to Execute** | 1. Access the login page.<br>2. Leave the username field empty.<br>3. Enter an **Invalid** password in the password field.<br>4. Click on the login button. |
 | **Post Conditions** | Login should not be performed.                                                                          |
 | **Expected Result** | The system should display a message informing the user that the credentials are invalid.                |
+
+<br>
+
+## TC-017 - Login: Valid Username with Uppercase Characters - Valid Password
+
+| **Attribute**      | **Details**                                                                                              |
+|--------------------|----------------------------------------------------------------------------------------------------------|
+| **Priority**       | Medium                                                                                                   |
+| **Type**           | Functional                                                                                              |
+| **Preconditions**  | User must be registered in the system with a valid username containing uppercase characters and a valid password. |
+| **Steps to Execute** | 1. Access the login page.<br>2. Fill in the field with a **valid** username containing uppercase characters.<br>3. Fill in the field with a **valid** password.<br>4. Click on the login button. |
+| **Post Conditions** | User should be successfully logged in.                                                                    |
+| **Expected Result** | The system should allow the user to log in and redirect to the appropriate page or dashboard.            |
+
+<br>
+
+## TC-018 - Login: Valid Username - Valid Password with Uppercase Characters
+
+| **Attribute**      | **Details**                                                                                              |
+|--------------------|----------------------------------------------------------------------------------------------------------|
+| **Priority**       | High                                                                                                    |
+| **Type**           | Functional                                                                                              |
+| **Preconditions**  | User must be registered in the system with a valid username and a valid password. The system should differentiate between uppercase and lowercase characters in passwords. |
+| **Steps to Execute** | 1. Access the login page.<br>2. Fill in the field with a **valid** username.<br>3. Fill in the field with a **valid** password where the password includes uppercase characters but does not match the stored password.<br>4. Click on the login button. |
+| **Post Conditions** | Login should not be performed.                                                                          |
+| **Expected Result** | The system should display a message indicating that the credentials are invalid, reflecting that it differentiates between uppercase and lowercase characters in passwords. |
