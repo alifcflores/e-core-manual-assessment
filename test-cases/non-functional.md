@@ -1,18 +1,3 @@
-## Security Test Cases
-| **Test Case ID** | **Description**                                             |
-|------------------|-------------------------------------------------------------|
-| [TC-010](#test-case-010) | Brute Force Attack: Login Attempt Limitation        |
-| [TC-011](#test-case-011) | Verify Session Timeout Functionality                |
-| [TC-012](#test-case-012) | Valid Login With Allowed Special Characters         |
-| [TC-013](#test-case-013) | Invalid Login With Special Characters (Not Allowed) |
-
-## Responsiveness Test Cases
-| **Test Case ID** | **Description**                                           |
-|------------------|-----------------------------------------------------------|
-| [TC-014](#test-case-014) | Responsiveness Test: 1920x1080 (Full HD)          |
-| [TC-015](#test-case-015) | Responsiveness Test: 1366x768 (HD)                |
-| [TC-016](#test-case-016) | Responsiveness Test: 1440x900 (WXGA+)             |
-
 # Security Tests
 
 ## TC-010 - Brute Force Attack: Login Attempt Limitation
