@@ -1,14 +1,4 @@
 ## Functional Test Cases
-| **Test Case ID** | **Description**                                    |
-|------------------|----------------------------------------------------|
-| [TC-003](#test-case-003) | Login: Valid UserName - Invalid Password          |
-| [TC-004](#test-case-004) | Login: Valid UserName - Empty Password            |
-| [TC-005](#test-case-005) | Login: Invalid UserName - Valid Password          |
-| [TC-006](#test-case-006) | Login: Invalid UserName - Invalid Password        |
-| [TC-007](#test-case-007) | Login: Invalid UserName - Empty Password          |
-| [TC-008](#test-case-008) | Login: Empty UserName - Valid Password            |
-| [TC-009](#test-case-009) | Login: Empty UserName - Invalid Password          |
-
 ## TC-003 - Login: Valid UserName - Invalid Password
 
 | **Attribute**      | **Details**                                                                                              |
