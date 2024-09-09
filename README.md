@@ -18,8 +18,8 @@ I based the coverage calculation solely on functional tests and categorized the 
 4. Special Characters
 
 ### Explaining the Information in the Table Above
-1. UserName: possible entries for username (valid, invalid, empty)
-2. Password: possible entries for password (valid, invalid, empty)
+1. UserName: possible entries for username field
+2. Password: possible entries for password field
 3. Total Possible: Multiplied username entries X password entries.
 4. Total Created: Count of created scenarios.
 
@@ -48,7 +48,7 @@ In this repository, there is a `test-cases` folder where tests are separated by 
 
 #### Template:
 
-TC-003 - Login: Valid Username - Invalid Password
+TC-000 - Title
 
 | **Attribute**      | **Details**                                                                                           |
 |--------------------|--------------------------------------------------------------------------------------------------------|
@@ -61,7 +61,7 @@ TC-003 - Login: Valid Username - Invalid Password
 
 <br>
 
-# Executing Tests
+# Test Execution
 The execution of scenarios and found bugs are compiled in the link below:
 
 [CLICK TO ACCESS](https://docs.google.com/spreadsheets/d/e/2PACX-1vSnlVwNHbDn67CGCWle_xnLdPK5QzsiFrtIcElnyoO9QKVNnuzn4LCPBezHOrKcr29ree0wVYBVUGo_/pubhtml#) 
