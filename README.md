@@ -34,7 +34,7 @@ For the planned inputs, all possible combinations resulted in a Test Case. There
 [![possible-input-values.png](https://i.postimg.cc/XNsPKk3D/possible-input-values.png)](https://postimg.cc/MXjtqRny)
 
 ## Fields Validations: UpperCase, Max Length, and Special Characters
-[![fields-valdation.png](https://i.postimg.cc/QdCd14qM/fields-valdation.png)](https://postimg.cc/HrGmCtRG)
+[![fields-valdation.png](https://i.postimg.cc/R0W5RtWY/fields-valdation.png)](https://postimg.cc/p9M6VpYQ)
 
 ## Other Test Cases
 In addition to the test cases mentioned above, scenarios for Smoke and non-functional tests (security and responsiveness) were created.
