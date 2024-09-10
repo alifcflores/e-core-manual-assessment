@@ -90,7 +90,7 @@
 
 <br>
 
-## TC-017 - Login: Valid Username with Uppercase Characters - Valid Password
+## TC-010 - Login: Valid Username with Uppercase Characters - Valid Password
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -103,7 +103,7 @@
 
 <br>
 
-## TC-018 - Login: Valid Username - Valid Password with Uppercase Characters
+## TC-011 - Login: Valid Username - Valid Password with Uppercase Characters
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
