@@ -1,5 +1,5 @@
 # Smoke Test Cases
-## TC-001 - Login: Valid UserName - Valid Password
+### TC-001 - Login: Valid UserName - Valid Password
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -12,7 +12,7 @@
 
 <br>
 
-## TC-002 - Login: Empty UserName - Empty Password
+### TC-002 - Login: Empty UserName - Empty Password
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
