@@ -3,6 +3,13 @@
 ### Change History
 - **Version 1.0** - [2024-09-08] - Initial creation of the test plan.
 
+### Links Overview
+| **Description**                      | **Link**                                                                 |
+|--------------------------------------|---------------------------------------------------------------------------|
+| Detailed Test Cases                  | [CLICK TO ACCESS](https://github.com/alifcflores/e-core-manual-assessment/tree/main/test-cases) |
+| Test Execution Spreadsheet           | [CLICK TO ACCESS](https://docs.google.com/spreadsheets/d/e/2PACX-1vSnlVwNHbDn67CGCWle_xnLdPK5QzsiFrtIcElnyoO9QKVNnuzn4LCPBezHOrKcr29ree0wVYBVUGo_/pubhtml#) |
+| Bugs Founded - Issues                | [CLICK TO ACCESS](https://github.com/alifcflores/e-core-manual-assessment/issues) |
+
 ## Introduction
 This test plan aims to validate the functionality of the login page of the Application. The goal is to ensure that all fields on the login page accept expected inputs and handle invalid inputs appropriately. The plan includes functional tests, as well as additional tests to verify the page's security and responsiveness.
 
