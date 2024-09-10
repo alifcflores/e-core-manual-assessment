@@ -27,10 +27,10 @@ This test plan aims to validate the functionality of the login page of the Appli
 ## Test Scenarios
 Two main software testing techniques were used to create the test scenarios.
 
-### Equivalence Partitioning
+#### Equivalence Partitioning
 Identifies all the main inputs (usually based on business rules) so that they can be divided into smaller partitions.
 
-### Decision Table
+#### Decision Table
 In this case, the decision table is used to perform combinations between possible inputs to determine the real number of scenarios.
 
 ## Test Coverage
