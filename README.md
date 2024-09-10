@@ -49,14 +49,20 @@ Coverage calculation was based solely on functional tests and categorized into 4
 
 For the planned inputs, all possible combinations resulted in a test case. Therefore, 100% coverage in these areas.
 
-## Possible Input Values
+### Possible Input Values
 [![possible-input-values.png](https://i.postimg.cc/XNsPKk3D/possible-input-values.png)](https://postimg.cc/MXjtqRny)
 
-## Fields Validations: UpperCase, Max Length, and Special Characters
+### Fields Validations: UpperCase, Max Length, and Special Characters
 [![fields-valdation.png](https://i.postimg.cc/R0W5RtWY/fields-valdation.png)](https://postimg.cc/p9M6VpYQ)
 
-## Other Test Cases
+## Other Test Types
 In addition to the test cases mentioned above, scenarios for Smoke and non-functional tests (security and responsiveness) were created.
+
+1. Smoke Testing
+Objective: Quickly verify that essential functionalities are working after a new build.
+
+3. Non-Functional Testing
+Objective: Assess aspects beyond functionality, including security, performance, and usability.
 
 ## Detailed Test Cases
 In this repository, there is a `test-cases` folder where tests are separated by type of testing. 
