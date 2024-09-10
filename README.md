@@ -7,7 +7,7 @@
 | **Description**                      | **Link**                                                                 |
 |--------------------------------------|---------------------------------------------------------------------------|
 | Detailed Test Cases                  | [CLICK TO ACCESS](https://github.com/alifcflores/e-core-manual-assessment/tree/main/test-cases) |
-| Test Execution Spreadsheet           | [CLICK TO ACCESS](https://docs.google.com/spreadsheets/d/e/2PACX-1vSnlVwNHbDn67CGCWle_xnLdPK5QzsiFrtIcElnyoO9QKVNnuzn4LCPBezHOrKcr29ree0wVYBVUGo_/pubhtml#) |
+| Test Execution (navigate from tabs)           | [CLICK TO ACCESS](https://docs.google.com/spreadsheets/d/e/2PACX-1vSnlVwNHbDn67CGCWle_xnLdPK5QzsiFrtIcElnyoO9QKVNnuzn4LCPBezHOrKcr29ree0wVYBVUGo_/pubhtml#) |
 | Bugs Founded - Issues                | [CLICK TO ACCESS](https://github.com/alifcflores/e-core-manual-assessment/issues) |
 
 ## Introduction
