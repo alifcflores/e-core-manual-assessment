@@ -78,7 +78,7 @@
 
 <br>
 
-## TC-018 - Verify Session Timeout Functionality
+### TC-018 - Verify Session Timeout Functionality
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
