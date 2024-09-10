@@ -2,7 +2,7 @@
 Two main software testing techniques were used to create the test scenarios.
 
 #### Equivalence Partitioning
-Identifies all the main inputs (usually based on business rules) so that they can be divided into smaller partitions.
+Identifies all the main inputs (usually based on business rules) so that they can be divided into smaller partitions. 
 
 #### Decision Table
 In this case, the decision table is used to perform combinations between possible inputs to determine the real number of scenarios.
@@ -12,10 +12,10 @@ In this case, the decision table is used to perform combinations between possibl
 
 I based the coverage calculation solely on functional tests and categorized the login scenarios into 4 categories:
 
-1. Fields Combinations
+1. Fields Combinations: divided into three partitions: valid, invalid and empty.
 2. UpperCase
 3. Max Length
-4. Special Characters
+4. Special Characters: divided into allow and not allow special characters
 
 ### Explaining the Information in the Table Above
 1. UserName: possible entries for username field
