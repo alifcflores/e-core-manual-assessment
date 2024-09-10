@@ -1,6 +1,71 @@
 # Security Tests
 
-## TC-010 - Brute Force Attack: Login Attempt Limitation
+### TC012 - Valid Username - Allowed Special Characters
+
+| **Attribute**      | **Details**                                                                                              |
+|--------------------|----------------------------------------------------------------------------------------------------------|
+| **Priority**       | Medium                                                                                                   |
+| **Type**           | Security                                                                                                 |
+| **Preconditions**  | User must be registered in the system.                                                                   |
+| **Steps to Execute** | 1. Access the login page.<br>2. Fill in the Username field with a **valid** username that includes allowed special characters.<br>3. Fill in the Password field with a **valid** password.<br>4. Click on the login button. |
+| **Post Conditions** | User should be logged in successfully.                                                                   |
+| **Expected Result** | The system should accept the username with allowed special characters and allow the user to log in.      |
+
+<br>
+
+### TC013 - Invalid Username - Not Allowed Special Characters
+
+| **Attribute**      | **Details**                                                                                              |
+|--------------------|----------------------------------------------------------------------------------------------------------|
+| **Priority**       | Medium                                                                                                   |
+| **Type**           | Security                                                                                                 |
+| **Preconditions**  | User must be registered in the system.                                                                   |
+| **Steps to Execute** | 1. Access the login page.<br>2. Fill in the Username field with an **invalid** username that includes not allowed special characters.<br>3. Fill in the Password field with a **valid** password.<br>4. Click on the login button. |
+| **Post Conditions** | Login should not be performed.                                                                          |
+| **Expected Result** | The system should reject the username with not allowed special characters and display an error message. |
+
+<br>
+
+### TC014 - Valid Password - All Special Characters
+
+| **Attribute**      | **Details**                                                                                              |
+|--------------------|----------------------------------------------------------------------------------------------------------|
+| **Priority**       | Medium                                                                                                   |
+| **Type**           | Security                                                                                                 |
+| **Preconditions**  | User must be registered in the system.                                                                   |
+| **Steps to Execute** | 1. Access the login page.<br>2. Fill in the Username field with a **valid** username.<br>3. Fill in the Password field with a **valid** password that includes all special characters.<br>4. Click on the login button. |
+| **Post Conditions** | User should be logged in successfully.                                                                   |
+| **Expected Result** | The system should accept the password with all special characters and allow the user to log in.          |
+
+<br>
+
+### TC015 - Username - Validate Max Length Field
+
+| **Attribute**      | **Details**                                                                                              |
+|--------------------|----------------------------------------------------------------------------------------------------------|
+| **Priority**       | Medium                                                                                                   |
+| **Type**           | Security                                                                                                 |
+| **Preconditions**  | User must be registered in the system.                                                                   |
+| **Steps to Execute** | 1. Access the login page.<br>2. Fill in the Username field with a value that reaches the maximum allowed length.<br>3. Fill in the Password field with a **valid** password.<br>4. Click on the login button. |
+| **Post Conditions** | User should be logged in successfully if the length is valid.<br>Login should not be performed if the length exceeds the allowed limit.  |
+| **Expected Result** | The system should accept the username up to the maximum length limit and allow the user to log in.<br> If the username exceeds the maximum length, the system should reject it and display an appropriate error message. |
+
+<br>
+
+### TC016 - Password - Validate Max Length Field
+
+| **Attribute**      | **Details**                                                                                              |
+|--------------------|----------------------------------------------------------------------------------------------------------|
+| **Priority**       | Medium                                                                                             |
+| **Type**           | Security                                                                                             |
+| **Preconditions**  | User must be registered in the system.                                                                   |
+| **Steps to Execute** | 1. Access the login page.<br>2. Fill in the Username field with a **valid** username.<br>3. Fill in the Password field with a value that reaches the maximum allowed length.<br>4. Click on the login button. |
+| **Post Conditions** | User should be logged in successfully if the length is valid.<br>Login should not be performed if the length exceeds the allowed limit.  |
+| **Expected Result** | The system should accept the password up to the maximum length limit and allow the user to log in.<br> If the password exceeds the maximum length, the system should reject it and display an appropriate error message. |
+
+<br>
+
+## TC-017 - Brute Force Attack: Login Attempt Limitation
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -13,7 +78,7 @@
 
 <br>
 
-## TC-011 - Verify Session Timeout Functionality
+## TC-018 - Verify Session Timeout Functionality
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -26,40 +91,9 @@
 
 <br>
 
-## TC-012 - Valid Login With Allowed Special Characters
-
-| **Attribute**      | **Details**                                                                                              |
-|--------------------|----------------------------------------------------------------------------------------------------------|
-| **Priority**       | Highest                                                                                                 |
-| **Scope**          | - Valid username with Special Characters Allowed<br>- Valid password with All Special Characters         |
-| **Type**           | Security                                                                                                |
-| **Preconditions**  | User must be registered in the system.                                                                  |
-| **Steps to Execute** | 1. Access the login page.<br>2. Fill in the field with a **valid** username with **special characters** allowed.<br>3. Fill in the field with a **valid** password with all **special characters**.<br>4. Click on the login button. |
-| **Post Conditions** | N/A                                                                                                     |
-| **Expected Result** | User is redirected to the invoices page.                                                                |
-
-<br>
-
-## TC-013 - Invalid Login With Special Characters (Not Allowed)
-
-| **Attribute**      | **Details**                                                                                              |
-|--------------------|----------------------------------------------------------------------------------------------------------|
-| **Priority**       | Highest                                                                                                 |
-| **Scope**          | - Invalid username with Special Characters (Not Allowed)<br>- Invalid password with All Special Characters |
-| **Type**           | Security                                                                                                |
-| **Preconditions**  | N/A                                                                                                     |
-| **Steps to Execute** | 1. Access the login page.<br>2. Fill in the field with an **Invalid** username with **special characters** (not allowed).<br>3. Fill in the field with an **Invalid** password with all **special characters**.<br>4. Click on the login button. |
-| **Post Conditions** | N/A                                                                                                     |
-| **Expected Result** | The system should display a message indicating the special characters are not allowed.                |
-
-<br>
-
----
-
-
 # Responsiveness Tests
 
-## TC-014 - Responsiveness Test: 1920x1080 (Full HD)
+### TC-019 - Responsiveness Test: 1920x1080 (Full HD)
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -72,7 +106,7 @@
 
 <br>
 
-## TC-015 - Responsiveness Test: 1366x768 (HD)
+### TC-020 - Responsiveness Test: 1366x768 (HD)
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -85,7 +119,7 @@
 
 <br>
 
-## TC-016 - Responsiveness Test: 1440x900 (WXGA+)
+### TC-021 - Responsiveness Test: 1440x900 (WXGA+)
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
