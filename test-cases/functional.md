@@ -1,5 +1,6 @@
-## Functional Test Cases
-## TC-003 - Login: Valid UserName - Invalid Password
+# Functional Test Cases
+
+### TC-003 - Login: Valid UserName - Invalid Password
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -12,7 +13,7 @@
 
 <br>
 
-## TC-004 - Login: Valid UserName - Empty Password
+### TC-004 - Login: Valid UserName - Empty Password
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -25,7 +26,7 @@
 
 <br>
 
-## TC-005 - Login: Invalid UserName - Valid Password
+### TC-005 - Login: Invalid UserName - Valid Password
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -38,7 +39,7 @@
 
 <br>
 
-## TC-006 - Login: Invalid UserName - Invalid Password
+### TC-006 - Login: Invalid UserName - Invalid Password
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -51,7 +52,7 @@
 
 <br>
 
-## TC-007 - Login: Invalid UserName - Empty Password
+### TC-007 - Login: Invalid UserName - Empty Password
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -64,7 +65,7 @@
 
 <br>
 
-## TC-008 - Login: Empty UserName - Valid Password
+### TC-008 - Login: Empty UserName - Valid Password
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -77,7 +78,7 @@
 
 <br>
 
-## TC-009 - Login: Empty UserName - Invalid Password
+### TC-009 - Login: Empty UserName - Invalid Password
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -90,7 +91,7 @@
 
 <br>
 
-## TC-010 - Login: Valid Username with Uppercase Characters - Valid Password
+### TC-010 - Login: Valid Username with Uppercase Characters - Valid Password
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
@@ -103,7 +104,7 @@
 
 <br>
 
-## TC-011 - Login: Valid Username - Valid Password with Uppercase Characters
+### TC-011 - Login: Valid Username - Valid Password with Uppercase Characters
 
 | **Attribute**      | **Details**                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
